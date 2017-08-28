@@ -1,14 +1,14 @@
 #Logikk
 
 ## formallogikk/deduktivlogg (gyldighet/holdbarhet)
-_Resonoment_ (argument) => Seninger(påstanser) som enten fungerer som
-            premisser(forutsetninger/grunner/begrunnelser)
-                eller *konkluson*.
+_Resonoment_ (argument) => Seninger(påstanser) som enten fungerer som premisser(forutsetninger/grunner/begrunnelser) eller *konkluson*.
+
     Gyldige resonement => Gyldighet => per def:
+
           (1) Semantisk def =
             hvis(alle) premisser er sanne så [må] konklusjonen være sann
-          (2)
-            logiske def => et resonnement er gyldig _hvis og gvis og bare hvis_
+
+          (2) logiske def => et resonnement er gyldig _hvis og gvis og bare hvis_
             resonomenter som har samme samme _logiske form_ somresonnementet
             og har samme premisser, og sammekonklusjon.
               eksempel syllogismer (=en type resonement)
@@ -48,6 +48,7 @@ _Resonoment_ (argument) => Seninger(påstanser) som enten fungerer som
                       1) enten er Liv matematikker eller Jaran er kjemikker
                       2) jaran er ikkje kjemikker | modus tollendo ponens
                       3) Liv er matematikker
+
             (4) holdbarhet => har med faktisk sannhet å gjøre.
                 En slutning kan være gyldig (logisk sann) men ikkje
                 nødvendigvis holbar.
