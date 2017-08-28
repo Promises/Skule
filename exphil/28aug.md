@@ -1,10 +1,10 @@
-__Logikk__
+_#_Logikk_
 
-* formallogikk/deduktivlogg(gyldighet/holdbarhet)
-__Resonoment__ (argument) => Seninger(påstanser)
+## formallogikk/deduktivlogg(gyldighet/holdbarhet)
+_Resonoment_ (argument) => Seninger(påstanser)
             som enten fungerer som
               premisser(forutsetninger/grunner/begrunnelser)
-                eller __konkluson__.
+                eller *konkluson*.
     Gyldige resonement => Gyldighet
           => per def:
           (1) Semantisk def =
@@ -15,6 +15,6 @@ __Resonoment__ (argument) => Seninger(påstanser)
       1) alle filosofer liker kaffe.
       2) helge er ein filisof
       3) helge liker kaffe.
-* induktiv logikk
+## induktiv logikk
 
-* definisjoner
+## definisjoner
